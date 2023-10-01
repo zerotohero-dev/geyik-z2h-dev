@@ -11,6 +11,7 @@ kaliteli geyik çevirdiğimiz bir podcast.
 * [I ❤️ Radio](https://www.iheart.com/podcast/269-vadideki-geyik-123953624/)
 * [Radio Public](https://radiopublic.com/vadideki-geyik-GOLLxL)
 * [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lOWNjMDk3Yy9wb2RjYXN0L3Jzcw)
+* [Vimeo](https://vimeo.com/showcase/10689935)
 * [YouTube](https://youtube.com/@Vadideki-Geyik)
 * [Twitch](https://www.twitch.tv/collections/oUpJGrbMiRenrg)
 * [RSS Beslemesi](https://anchor.fm/s/e9cc097c/podcast/rss)
