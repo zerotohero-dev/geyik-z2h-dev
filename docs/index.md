@@ -1,6 +1,6 @@
-**Vadideki Geyik** [Kampüs Discord Sunucusunda][kampus] her hafta Silikon 
-Vadisinde olan bitenler güncel hayatımız ve geçmiş anı ve deneyimlerimiz hakkında
-kaliteli geyik çevirdiğimiz bir podcast.
+**Vadideki Geyik** [Kampüs Discord Sunucusunda][kampus], her hafta Silikon 
+Vadisi’nde olan bitenler, güncel hayatımız, ve geçmiş anı ve deneyimlerimiz 
+hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Abone Ol
 
