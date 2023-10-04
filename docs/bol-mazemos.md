@@ -152,7 +152,10 @@ Sonraki yayında konuşulabilir şeyler:
 * Nasil oluyor da sinavda dil ogreniliyor?
 * Juan Budamaci ve dilin onemsizligi
 * Truth coexists
-
+* dj’lik ve haber spikerligi
+* okulu uzatmak
+* tekne partisi ve tekne mafyasi
+* politika ve “biz ne yapiyoruz burada lan?” sorusu
 
 ## Indie Hacking
 
