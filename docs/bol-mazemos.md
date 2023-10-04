@@ -21,6 +21,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Diploma onemli mi?
 * Ingilizce onemli mi?
 * Nasil oluyor da sinavda dil ogreniliyor?
+* Juan Budamaci ve dilin onemsizligi
 
 
 
