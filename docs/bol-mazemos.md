@@ -11,6 +11,18 @@ Sonraki yayında konuşulabilir şeyler:
 * Rusya ve corba.
 * Why “code is nothing”
 * Hamza’nın ev baskını
+* Yatirimci’ya ev ziyareti
+* Van’li asker.
+* Kazan dairesi
+* Vidanjorle GTA
+* Bir bar taburesinde ikinci senede 0.4/4 GPA
+* BUEPT (bogazici uni english profficency test)
+* Universitenin normalize etkisi ve birden “ortalama” olmak.
+* Diploma onemli mi?
+* Ingilizce onemli mi?
+* Nasil oluyor da sinavda dil ogreniliyor?
+
+
 
 ## Indie Hacking
 
