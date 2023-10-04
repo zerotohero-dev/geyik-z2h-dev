@@ -151,7 +151,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Ingilizce onemli mi?
 * Nasil oluyor da sinavda dil ogreniliyor?
 * Juan Budamaci ve dilin onemsizligi
-
+* Truth coexists
 
 
 ## Indie Hacking
