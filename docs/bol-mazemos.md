@@ -156,6 +156,25 @@ Sonraki yayında konuşulabilir şeyler:
 * okulu uzatmak
 * tekne partisi ve tekne mafyasi
 * politika ve “biz ne yapiyoruz burada lan?” sorusu
+* Kantinde scorpicor gormek.
+* "3 gune biter mi?"
+* hashicorp vault ve business software license.
+* Mountain View school police lockdown.
+* acquisition nasil bir sey.
+
+https://www.hashicorp.com/bsl
+
+HashiCorp's Business Source License (BSL) is like a permission slip that allows 
+you to use their software, but with some rules. You can use it for your own 
+projects, modify it, and even share it. However, you can't use it to start your 
+own business that directly competes with what HashiCorp is doing.
+
+Four years after the software is released, the rules will change a bit, switching 
+to another set of guidelines called MPL 2.0. If you don't follow these rules, 
+HashiCorp can revoke your permission to use their software.
+
+So, it's like being allowed to play a copyrighted song in your garage band, but 
+you can't sell records or perform it at paid gigs without getting into legal trouble.
 
 ## Indie Hacking
 
