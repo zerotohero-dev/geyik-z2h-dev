@@ -133,13 +133,18 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
+* 4 komutan
+* full stack uber driver.
+* mc donald’s macerasi
+* Mission Street ablalari
+xperfomance review | D.
+* jive -> cisco -> vmware
+* nasil geldik buralara
 * T.Erener, 4 saat degil, 8 saatti; konu guncellemesi.
   * Nagişin konu ile ilgili fikri (eğer uyanıksa :)
 * “green card en rahat nasil alinir”
 * “vize aktarma” nedir; yenir mi?
 * Rusya ve corba.
-* Why “code is nothing”
-* Hamza’nın ev baskını
 * Yatirimci’ya ev ziyareti
 * Van’li asker.
 * Kazan dairesi
@@ -151,6 +156,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Ingilizce onemli mi?
 * Nasil oluyor da sinavda dil ogreniliyor?
 * Juan Budamaci ve dilin onemsizligi
+* “Niye bizimle calismak istiyorsun?”
 * Truth coexists
 * dj’lik ve haber spikerligi
 * okulu uzatmak
@@ -161,6 +167,9 @@ Sonraki yayında konuşulabilir şeyler:
 * hashicorp vault ve business software license.
 * Mountain View school police lockdown.
 * acquisition nasil bir sey.
+* Bruce Lee ve yazilim.
+* I don’t fit in… if anything, I fit out.
+* Yaş 12, yazdığım ilk program.
 
 https://www.hashicorp.com/bsl
 
@@ -196,3 +205,14 @@ nasıl geçiyor https://vsecm.com/docs/contributor-sync/
 ^ Boyle bir soru gelmis; buradan VMware Secrets Manager’dan bir nebze bahsedilabilir.
 HashiCorp’un Business Source License’ina girilebilir; onun oncesinde Amazon ile
 Elastic Co. arasinda olan lisans savaslarina deginilebilir vb.
+
+## SOLID ve Arkadaslari
+
+Selam, benim sorum solid prensipleri, best practise konularını teorik olarak 
+öğrensek de iş hayatında çoğu zaman uygulamıyorum. Dahil olduğum projelerde az 
+kullanıldığını, çoğu zaman spaghetti kod yazıldığını fark ediyorum.
+
+Bu durumda günün sonunda kalitesiz iş yaptığımı düşünüyorum ve bu çark böyle dönüyor.
+Volkan abinin daha önce Roadmap yazısında yazdığı gibi “code is nothing” diyerek 
+devam mı etmeliyiz, yoksa bu pratikleri uygulayabileceğimiz iş yerlerini mi 
+tercih etmeliyiz? Umarım açıklayıcı bi şekilde sorabilmişimdir.
