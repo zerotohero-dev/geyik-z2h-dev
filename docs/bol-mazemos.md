@@ -134,6 +134,7 @@ Sonraki yayında konuşulabilir şeyler:
 ## Önceki Yayında Yarım Kalanlar
 
 * 4 komutan
+* Ozan abi ben bi b`*`k yedim
 * full stack uber driver.
 * mc donald’s macerasi
 * Mission Street ablalari
@@ -169,6 +170,7 @@ xperfomance review | D.
 * Bruce Lee ve yazilim.
 * I don’t fit in… if anything, I fit out.
 * Yaş 12, yazdığım ilk program.
+* Bir suru hobi projesi yapmak mi, yoksa bir tane buyuk proje mi?
 
 https://www.hashicorp.com/bsl
 
