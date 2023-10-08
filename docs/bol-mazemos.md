@@ -138,7 +138,6 @@ Sonraki yayında konuşulabilir şeyler:
 * full stack uber driver.
 * mc donald’s macerasi
 * Mission Street ablalari
-xperfomance review | D.
 * jive -> cisco -> vmware
 * nasil geldik buralara
 * T.Erener, 4 saat degil, 8 saatti; konu guncellemesi.
