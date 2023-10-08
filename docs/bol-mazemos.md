@@ -153,7 +153,6 @@ xperfomance review | D.
 * BUEPT (bogazici uni english profficency test)
 * Universitenin normalize etkisi ve birden “ortalama” olmak.
 * Diploma onemli mi?
-* Ingilizce onemli mi?
 * Nasil oluyor da sinavda dil ogreniliyor?
 * Juan Budamaci ve dilin onemsizligi
 * “Niye bizimle calismak istiyorsun?”
