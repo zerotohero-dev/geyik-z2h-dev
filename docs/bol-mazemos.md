@@ -143,7 +143,8 @@ Sonraki yayında konuşulabilir şeyler:
 * mc donald’s macerasi
 * Mission Street ablalari
 * jive -> cisco -> vmware
-* nasil geldik buralara
+* nasil geldik buralara]
+* JavaScript ogrenmek icin Haskell ogrenmek lazim mi?
 * T.Erener, 4 saat degil, 8 saatti; konu guncellemesi.
     * Nagişin konu ile ilgili fikri (eğer uyanıksa :)
 * “green card en rahat nasil alinir”
