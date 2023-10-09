@@ -165,6 +165,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Kazan dairesi
 * Vidanjorle GTA
 * Jose Capablanca’ya is on gorusmesi (*phone screening*) teklifi.
+* Bir etkinligin nasil uc tane “ana” sponsoru olur?
 * Bir bar taburesinde ikinci senede 0.4/4 GPA
 * BUEPT (bogazici uni english profficency test)
 * Universitenin normalize etkisi ve birden “ortalama” olmak.
