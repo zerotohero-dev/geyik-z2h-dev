@@ -150,6 +150,9 @@ Sonraki yayında konuşulabilir şeyler:
   — Sizce bir iş yerinden ne zaman ayrılmalıyız?
   (Volkan not: bunu vadi ici ve vadi disi olarak ayri degerlendirmek lazim,
   cunku farkli dinamikler var)
+* Hayriye Pıtır kimdir? ( https://www.facebook.com/hayriye.pitir/ )
+    * bu personayi onlira.co’da kullandim mi hatirlamiyorum; ama benzer personalar kullanmistim.
+    * MessengerFX zamani olusturmustum bu personalari; takipcileri vardi epey.
 * T.Erener, 4 saat degil, 8 saatti; konu guncellemesi.
     * Nagişin konu ile ilgili fikri (eğer uyanıksa :)
 * “green card en rahat nasil alinir”
