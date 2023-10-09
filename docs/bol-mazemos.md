@@ -145,6 +145,11 @@ Sonraki yayında konuşulabilir şeyler:
 * jive -> cisco -> vmware
 * nasil geldik buralara]
 * JavaScript ogrenmek icin Haskell ogrenmek lazim mi?
+* Bir işyerinde 2-3 yıldan fazla çalışmak bana mantıksız geliyordu ama aynı 
+  firmada 10 yıl gibi sürelerde çalışanlar görünce fikrim değişti.
+  — Sizce bir iş yerinden ne zaman ayrılmalıyız?
+  (Volkan not: bunu vadi ici ve vadi disi olarak ayri degerlendirmek lazim,
+  cunku farkli dinamikler var)
 * T.Erener, 4 saat degil, 8 saatti; konu guncellemesi.
     * Nagişin konu ile ilgili fikri (eğer uyanıksa :)
 * “green card en rahat nasil alinir”
