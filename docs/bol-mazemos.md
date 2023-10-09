@@ -164,6 +164,7 @@ Sonraki yayında konuşulabilir şeyler:
   almanlar cok bodoslama konusuyor, soyle davraniyorsa kesin “gay”dir (1. nereden biliyorsun 2. SANA NE Anthony Queen!))
 * Kazan dairesi
 * Vidanjorle GTA
+* Jose Capablanca’ya is on gorusmesi (*phone screening*) teklifi.
 * Bir bar taburesinde ikinci senede 0.4/4 GPA
 * BUEPT (bogazici uni english profficency test)
 * Universitenin normalize etkisi ve birden “ortalama” olmak.
