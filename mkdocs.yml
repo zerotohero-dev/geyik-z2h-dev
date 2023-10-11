@@ -1,5 +1,8 @@
 site_name: Vadideki Geyik 🦌
-copyright: Copyright ©️ Team Geyik
+copyright: Copyright ©️ Team Geyik — bu site kurabiye, çerez, bisküvi, ve benzeri
+  seni takip etmemizi sağlayan teknolojileri katiyen kullanmaz. Bu siteyi ziyaret
+  ettiğinden haberimiz olmaz. Kim olduğunu, nereden geldiğini, neye tıkladığını
+  bilmiyoruz; rahat ol… popüler davran, geyik kal 🦌.
 theme:
   name: terminal
   custom_dir: overrides

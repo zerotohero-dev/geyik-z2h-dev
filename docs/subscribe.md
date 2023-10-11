@@ -137,10 +137,11 @@ width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www
 
 <hr>
 
-
 ### Vadideki Geyik
 
-Standart yayınlar (*yayın başına ortalama 40 dakika*).
+> **Nedir?**
+> 
+> Standart yayınlar (*yayın başına ortalama 40 dakika*).
 
 * [Spotify](https://open.spotify.com/show/3v5BqfvAOqHAzktVU78F1Y)
 * [Amazon Music](https://music.amazon.com/podcasts/vadideki-geyik)
@@ -150,9 +151,13 @@ Standart yayınlar (*yayın başına ortalama 40 dakika*).
 * [Radio Public](https://radiopublic.com/vadideki-geyik-GOLLxL)
 * [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lOWNjMDk3Yy9wb2RjYXN0L3Jzcw)
 
+<hr>
+
 ### Vadideki Geyik (*Uncut*)
 
-Bölünmemiş kayıtlar (*yayın başına ortalama 3 saat*).
+> **Nedir?**
+> 
+> Bölünmemiş kayıtlar (*yayın başına ortalama 3 saat*).
 
 * [Spotify](https://open.spotify.com/show/7ijoQAneSNwrj7LJ5NjrMY)
 * [Amazon Music]( https://music.amazon.com/podcasts/a9661b4e-d3ca-4e24-9d19-5176a575e3e1)
@@ -162,7 +167,14 @@ Bölünmemiş kayıtlar (*yayın başına ortalama 3 saat*).
 * [Radio Public](https://radiopublic.com/vadideki-geyik-uncut-GyjvbZ)
 * Google Podcasts (*onay aşamasında*)
 
+<hr>
+
 ## Diğer Kanallar
+
+> **Nedir?**
+>
+> Bazen sahne arkası, kamera ve ekran görüntüleri, 
+> ve sohbetlerimizi de paylaştığımız canlı yayın kayıtları.
 
 * [Vimeo](https://vimeo.com/showcase/10689935)
 * [YouTube](https://youtube.com/@Vadideki-Geyik)
