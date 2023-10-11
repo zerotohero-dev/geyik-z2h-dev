@@ -1,3 +1,7 @@
+---
+title: Bol Mazemos 🍕
+---
+
 <svg
 style="float:left;margin:1em;margin-top:0"
 width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
