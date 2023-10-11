@@ -137,8 +137,8 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 <p>&nbsp;</p>
 <center>
-<a href="/subscribe/">Sevdiğin Podcast Platformunda
-<strong>Geyiğe Abone Ol</strong></a>
+<a href="/subscribe/">Sevdiğin Podcast Platformunda<br>
+<strong>Vadideki Geyiğe Abone Ol</strong></a>
 </center>
 <p>&nbsp;</p>
 

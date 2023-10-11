@@ -133,6 +133,11 @@ width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www
 
 ## Abone Ol
 
+<div style="clear:both"></div>
+
+<hr>
+
+
 ### Vadideki Geyik
 
 Standart yayınlar (*yayın başına ortalama 40 dakika*).
