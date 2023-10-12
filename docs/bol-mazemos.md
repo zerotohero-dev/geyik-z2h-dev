@@ -149,6 +149,7 @@ Sonraki yayında konuşulabilir şeyler:
 * jive -> cisco -> vmware
 * nasil geldik buralara
 * I Tipi, T Tipi, ve M Tipi insanlar; hangisi daha iyi.
+* “Sen simdi nerede mudur oldun?” — **mudur**, **title**, AMANIN!
 * JavaScript ogrenmek icin Haskell ogrenmek lazim mi?
 * Bir işyerinde 2-3 yıldan fazla çalışmak bana mantıksız geliyordu ama aynı 
   firmada 10 yıl gibi sürelerde çalışanlar görünce fikrim değişti.
