@@ -141,6 +141,7 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
+* Next.js ve SQL template literalli serverside functions
 * Broadcom-VMware durumlari; teklif falan filan.
 * Solak bardaklari—ozellikle kendim icin 😄 Tum dunya solaklara karsi.
 * Perry the Platypus ve “goz temasi”
