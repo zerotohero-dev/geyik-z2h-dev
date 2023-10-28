@@ -146,6 +146,12 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S03E04: Infinity Meadows - (*30 dakika, 46 saniye*)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S03E04-Infinity-Meadows-e2b429k" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S03E03: The Geyik Legacy - (*42 dakika, 19 saniye*)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S03E03-The-Geyik-Legacy-e2b41t9/a-aahg0vt" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
