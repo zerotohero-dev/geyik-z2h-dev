@@ -141,6 +141,7 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
+* Broadcom-VMware durumlari; teklif falan filan.
 * Solak bardaklari—ozellikle kendim icin 😄 Tum dunya solaklara karsi.
 * Perry the Platypus ve “goz temasi”
 * vmware ve 6 ay mulakat maratonu
