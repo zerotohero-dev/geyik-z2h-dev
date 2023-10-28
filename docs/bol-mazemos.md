@@ -141,9 +141,9 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
-* Next.js ve SQL template literalli serverside functions
-* Nasil yaratici olunuyor da olunuyor?
-* Broadcom-VMware durumlari; teklif falan filan.
+* Abi bir seyi merak ettim. Bu kadar isi bir arada nasil yapiyorsun? (multitasking). Belki bir podcast konusu da 
+  olabilir bu. Onemli bir meziyet bence
+* Nasil not aliyoruz
 * Solak bardaklari—ozellikle kendim icin 😄 Tum dunya solaklara karsi.
 * Perry the Platypus ve “goz temasi”
 * vmware ve 6 ay mulakat maratonu
