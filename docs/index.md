@@ -146,36 +146,61 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
-### Episode 6: Return of the Alpha Geyik (*30 dakika, 3 saniye*)
+### S03E03: The Geyik Legacy - (*42 dakika, 19 saniye*)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S03E03-The-Geyik-Legacy-e2b41t9/a-aahg0vt" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S03E02: Geyik Unleashed - (*42 dakika*)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S03E02-Geyik-Unleashed-e2b41ds/a-aahfv8s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S03E01: The Two Herds - (*41 dakika, 35 saniye*)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S03E01-The-Two-Herds-e2b405r/a-aahfrg9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S02E05: Return of the Alpha Geyik - (*30 dakika, 3 saniye*)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/Episode-6-Return-of-the-Alpha-Geyik-e2af2qb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
+<p>&nbsp;</p>
 
-### Episode 5: The Geyik Uprising — (*29 dakika, 50 saniye*)
+### S02E04: The Geyik Uprising — (*29 dakika, 50 saniye*)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/Episode-5-The-Geyik-Uprising-e2af2lq/a-aafdu79" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-### Episode 4: A New Habitat — (*40 dakika, 25 saniye*)
+<p>&nbsp;</p>
+
+### S02E03: A New Habitat — (*40 dakika, 25 saniye*)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/Episode-4-A-New-Habitat-e2af2gh/a-aafdtml" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-### Episode 3: Revenge of the Forest — (*40 dakika, 14 saniye*)
+<p>&nbsp;</p>
+
+### S02E02: Revenge of the Forest — (*40 dakika, 14 saniye*)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/Episode-3-Revenge-of-the-Forest-e2af2a9/a-aafdstr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-### Episode 2 — Attack of the Geyiks — (*40 dakika, 25 saniye*)
+<p>&nbsp;</p>
+
+### S02E01: Attack of the Geyiks — (*40 dakika, 25 saniye*)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/Episode-2-Attack-of-the-Geyiks-e2adunu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 <p>&nbsp;</p>
 
-### Episode 1 — The Phantom Geyik — (*3 saat, 30 dakika*)
+### S01E02: The Phantom Geyik — (*3 saat, 30 dakika*)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/Episode-1-The-Phantom-Geyik-e2a118j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 <p>&nbsp;</p>
 
-### Episode 0 — Teaser
+### S01E01: Teaser
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/Episode-0-Teaser-e29mtet/a-aad346i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
