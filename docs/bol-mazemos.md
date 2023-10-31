@@ -141,6 +141,7 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
+* Limoncello ve Joe Beda.
 * Abi bir seyi merak ettim. Bu kadar isi bir arada nasil yapiyorsun? (multitasking). Belki bir podcast konusu da 
   olabilir bu. Onemli bir meziyet bence
 * Nasil not aliyoruz
