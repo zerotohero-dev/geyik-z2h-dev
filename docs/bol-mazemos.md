@@ -141,6 +141,8 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
+* Open Source yapiyorum; kendi repom var, bol bol hackernews klonu ekliyorum, 
+  ama hic bir sirketin umrunda degil. Neden?
 * Yaprak’in Istanbul’da karsidan karsiya gecis macerasi.
 * Limoncello ve Joe Beda.
 * Abi bir seyi merak ettim. Bu kadar isi bir arada nasil yapiyorsun? (multitasking). Belki bir podcast konusu da 
