@@ -161,11 +161,11 @@ width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www
 
 * [Spotify](https://open.spotify.com/show/7ijoQAneSNwrj7LJ5NjrMY)
 * [Amazon Music]( https://music.amazon.com/podcasts/a9661b4e-d3ca-4e24-9d19-5176a575e3e1)
-* Apple Podcasts (*onay aşamasında*)
+* [Apple Podcasts](https://podcasts.apple.com/us/podcast/vadideki-geyik-uncut/id1711461085)
 * [Castbox](https://castbox.fm/channel/id5628601)
 * [I ❤️ Radio](https://www.iheart.com/podcast/269-vadideki-geyik-uncut-125501863/)
 * [Radio Public](https://radiopublic.com/vadideki-geyik-uncut-GyjvbZ)
-* Google Podcasts (*onay aşamasında*)
+* [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lYWVlNWFmOC9wb2RjYXN0L3Jzcw)
 
 <hr>
 
