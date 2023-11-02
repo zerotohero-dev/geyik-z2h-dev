@@ -131,10 +131,6 @@ width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www
 </g>
 </svg>
 
-🎸⚡️🦄 Zero to Hero :: Rock and Code :: You come for the awesome beats, you stay for the awesome beats, and maybe learn a trick or two🦄⚡️🎸
-
-🔴 Zero to Hero is LIVE 🎸⚡️🦄  You come for the awesome beats, you stay for the awesome beats, and maybe learn a trick or two🦄⚡️🎸
-
 # Bol Mazemos
 
 Sonraki yayında konuşulabilir şeyler:
