@@ -137,11 +137,13 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
+* 10 seneden sonra klima yaptırmak.
 * Open Source yapiyorum; kendi repom var, bol bol hackernews klonu ekliyorum, 
   ama hic bir sirketin umrunda degil. Neden?
 * Yaprak’in Istanbul’da karsidan karsiya gecis macerasi.
 * Limoncello ve Joe Beda.
-* Abi bir seyi merak ettim. Bu kadar isi bir arada nasil yapiyorsun? (multitasking). Belki bir podcast konusu da 
+* Abi bir seyi merak ettim. Bu kadar isi bir arada nasil yapiyorsun? (multitasking). 
+  Belki bir podcast konusu da 
   olabilir bu. Onemli bir meziyet bence
 * Nasil not aliyoruz
 * Solak bardaklari—ozellikle kendim icin 😄 Tum dunya solaklara karsi.
@@ -205,8 +207,6 @@ Sonraki yayında konuşulabilir şeyler:
 * I don’t fit in… if anything, I fit out.
 * Yaş 12, yazdığım ilk program.
 * Bir suru hobi projesi yapmak mi, yoksa bir tane buyuk proje mi?
-
-https://www.hashicorp.com/bsl
 
 HashiCorp's Business Source License (BSL) is like a permission slip that allows 
 you to use their software, but with some rules. You can use it for your own 
