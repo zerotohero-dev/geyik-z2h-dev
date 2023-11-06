@@ -137,6 +137,11 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
+* hayatini degistren williamlar
+* Gerci ondan once daha VMware mulakatlarina girmedik 😄
+* 12 yasinda oyun yazmaca
+* hic haksiz yere isten cikarildin mi?
+* advices to your younger self
 * Is mulakati nasil 6 ay surer?
 * Hayatimizi degistiren William’lar
 * 10 seneden sonra klima yaptırmak.
