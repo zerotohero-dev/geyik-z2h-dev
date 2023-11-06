@@ -137,6 +137,8 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
+* Is mulakati nasil 6 ay surer?
+* Hayatimizi degistiren William’lar
 * 10 seneden sonra klima yaptırmak.
 * Open Source yapiyorum; kendi repom var, bol bol hackernews klonu ekliyorum, 
   ama hic bir sirketin umrunda degil. Neden?
@@ -207,47 +209,10 @@ Sonraki yayında konuşulabilir şeyler:
 * I don’t fit in… if anything, I fit out.
 * Yaş 12, yazdığım ilk program.
 * Bir suru hobi projesi yapmak mi, yoksa bir tane buyuk proje mi?
-
-HashiCorp's Business Source License (BSL) is like a permission slip that allows 
-you to use their software, but with some rules. You can use it for your own 
-projects, modify it, and even share it. However, you can't use it to start your 
-own business that directly competes with what HashiCorp is doing.
-
-Four years after the software is released, the rules will change a bit, switching 
-to another set of guidelines called MPL 2.0. If you don't follow these rules, 
-HashiCorp can revoke your permission to use their software.
-
-So, it's like being allowed to play a copyrighted song in your garage band, but 
-you can't sell records or perform it at paid gigs without getting into legal trouble.
-
-## Indie Hacking
-
-* Parasal genişleme dönemi bittiğinden beri VC vb. yapılardan kaynak bulmak zorlaştı. 
-  düz insanlar için bootstrapped girişimler (mecburi olarak) yükselişte.
-  Dolayısıyla indie hacking, solopreneurship vb. ön planda.
-* Siz genel olarak bu trend hakkında ne düşünüyorsunuz? 
-* Bu trendin ne kadar devam edeceğini düşünüyorsunuz?
-* Vadideki Geyik kadrosu kendini "indie hacker" olarak tanımlıyor mu?
-  (bak buradan cok guzel 300-500K maas alinda indie hacking istegi nasil sonumleniyor,
-  ya da entrepreneur yerine intrapreneur olmak secenekleri de devreye giriyor konularina
-  segue yapilabilir)
-
-## VSecM Contributor Hours
-
-VMware Secrets Manager for Cloud-Native Apps için contributor hours oturumları 
-nasıl geçiyor https://vsecm.com/docs/contributor-sync/
-
-^ Boyle bir soru gelmis; buradan VMware Secrets Manager’dan bir nebze bahsedilabilir.
-HashiCorp’un Business Source License’ina girilebilir; onun oncesinde Amazon ile
-Elastic Co. arasinda olan lisans savaslarina deginilebilir vb.
-
-## SOLID ve Arkadaslari
-
-Selam, benim sorum solid prensipleri, best practise konularını teorik olarak 
+* Selam, benim sorum solid prensipleri, best practise konularını teorik olarak 
 öğrensek de iş hayatında çoğu zaman uygulamıyorum. Dahil olduğum projelerde az 
 kullanıldığını, çoğu zaman spaghetti kod yazıldığını fark ediyorum.
-
-Bu durumda günün sonunda kalitesiz iş yaptığımı düşünüyorum ve bu çark böyle dönüyor.
+— Bu durumda günün sonunda kalitesiz iş yaptığımı düşünüyorum ve bu çark böyle dönüyor.
 Volkan abinin daha önce Roadmap yazısında yazdığı gibi “code is nothing” diyerek 
 devam mı etmeliyiz, yoksa bu pratikleri uygulayabileceğimiz iş yerlerini mi 
 tercih etmeliyiz? Umarım açıklayıcı bi şekilde sorabilmişimdir.
