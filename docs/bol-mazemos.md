@@ -187,7 +187,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Rusya ve corba.
 * Yatirimci’ya ev ziyareti
 * Van’li asker.
-* Intentional, unintentinal biases and blind spots (Cinliler acayip matematige hakimmis; hintliler cok savsakmis; 
+* Intentional, unintentional biases and blind spots (Cinliler acayip matematige hakimmis; hintliler cok savsakmis; 
   almanlar cok bodoslama konusuyor, soyle davraniyorsa kesin “gay”dir (1. nereden biliyorsun 2. SANA NE Anthony Queen!))
 * Kazan dairesi
 * Vidanjorle GTA
