@@ -2,6 +2,11 @@
 title: Ana Geyik 🦌
 ---
 
+<div style="border: 1px #eea937 solid; margin: 0.5em; background-color: #f8dfa6; clear: both; padding: 0.26em; text-align: center; border-radius: 4px; max-width: 650px; margin: 0 auto; box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.16), 0 8px 8px rgba(0,0,0,0.20); background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d); background-image: linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%); background-image: radial-gradient(circle farthest-side, #fceabb, #f8b500); background-image: linear-gradient(to right, #ff512f, #f09819); background-image: linear-gradient(to right, #33001b, #ff0084); /* color: #ffffff; */ background-image: linear-gradient(to bottom right, #FF512F, #DD2476); transform: rotate(3deg); margin-top: 1em; margin-bottom: 3em;">
+<h1 style="text-align: center; /* width: 100%; */ /* background-color: green; */ display: block; /* color: #ffffff; */ background-color: #ffffff; padding: 0; margin-top: 1em; margin-bottom: 1em; margin: 1em; transform: rotate(-2deg); box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.16), 0 8px 8px rgba(0,0,0,0.20);">🦌 Hey Dostum, Bir Sonraki Canlı Yayın Ne Zaman? 🦌</h1>
+<p style="background-color: #ffffff; transform: rotate(-4deg); box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.16), 0 8px 8px rgba(0,0,0,0.20);">18 Kasım, Cumartesi, sabah 10:00 pasifik saati</p>
+</div>
+
 <svg 
 style="float:left;margin:1em;margin-top:0"
 width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -130,6 +135,8 @@ width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www
 </g>
 </g>
 </svg>
+
+
 
 **Vadideki Geyik** [Kampüs Discord Sunucusunda][kampus], her hafta Silikon
 Vadisi’nde olan bitenler, güncel hayatımız, ve geçmiş anı ve deneyimlerimiz
