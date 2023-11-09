@@ -1,5 +1,5 @@
 ---
-title: Bol Mazemos 🍕
+title: 🍱🍕
 ---
 
 <svg
