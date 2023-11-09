@@ -136,8 +136,6 @@ width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www
 </g>
 </svg>
 
-
-
 **Vadideki Geyik** [Kampüs Discord Sunucusunda][kampus], her hafta Silikon
 Vadisi’nde olan bitenler, güncel hayatımız, ve geçmiş anı ve deneyimlerimiz
 hakkında kaliteli geyik çevirdiğimiz bir podcast.
@@ -152,6 +150,18 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 <div style="clear:both;"></div>
 
 ## Yayınlar
+
+### S05E01: Whispers in the Wilderness - (_43 dakika, 25 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S05E01-Whispers-in-the-Wilderness-e2bl2ln/a-aaj4q52" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S04E04: The Eternal Herd - (_27 dakika, 13 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S04E04-The-Eternal-Herd-e2bb3sn/a-aai5rjn" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
 
 ### S04E03: Geyik Reborn - (_42 dakika, 14 saniye_)
 
