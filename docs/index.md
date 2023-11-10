@@ -151,6 +151,12 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S05E02: The Geyik Chronicles - (_41 dakika, 04 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S05E02-The-Geyik-Chronicles-e2bl2ok" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S05E01: Whispers in the Wilderness - (_43 dakika, 25 saniye_)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S05E01-Whispers-in-the-Wilderness-e2bl2ln/a-aaj4q52" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
