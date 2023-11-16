@@ -210,6 +210,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Kantinde scorpicor gormek.
 * "3 gune biter mi?"
 * hashicorp vault ve business software license.
+* uyku onemli
 * Mountain View school police lockdown.
 * acquisition nasil bir sey.
 * Bruce Lee ve yazilim.
