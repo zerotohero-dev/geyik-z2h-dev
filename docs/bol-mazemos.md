@@ -206,7 +206,6 @@ Sonraki yayında konuşulabilir şeyler:
 * dj’lik ve haber spikerligi
 * okulu uzatmak
 * tekne partisi ve tekne mafyasi
-* “tefeci lazim. tefecinin iyisi nereden bulunur?”
 * politika ve “biz ne yapiyoruz burada lan?” sorusu
 * Kantinde scorpicor gormek.
 * "3 gune biter mi?"
