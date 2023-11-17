@@ -151,6 +151,18 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S05E04: The Geyik Enigma - (_36 dakika, 36 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S05E04-The-Geyik-Enigma-e2bl2su/a-aaj4qnb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S05E03: The Monarch of the Glen - (_40 dakika, 48 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S05E03-The-Monarch-of-the-Glen-e2bl2qr/a-aaj4qik" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S05E02: The Geyik Chronicles - (_41 dakika, 04 saniye_)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S05E02-The-Geyik-Chronicles-e2bl2ok" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
