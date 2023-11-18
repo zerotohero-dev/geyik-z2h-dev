@@ -138,6 +138,7 @@ Sonraki yayında konuşulabilir şeyler:
 ## Önceki Yayında Yarım Kalanlar
 
 * hayatini degistren Williamlar
+* 12 Kasim 2023, VMware Secrets Manager Onboarding session nasildi?
 * Gerci ondan once daha VMware mulakatlarina girmedik 😄
 * 12 yasinda oyun yazmaca
 * hic haksiz yere isten cikarildin mi?
@@ -147,6 +148,8 @@ Sonraki yayında konuşulabilir şeyler:
 * Is mulakati nasil 6 ay surer?
 * Hayatimizi degistiren William’lar
 * 10 seneden sonra klima yaptırmak.
+* Amerika’daki egitim sistemi.
+* “Uyku” onemli mi?
 * Open Source yapiyorum; kendi repom var, bol bol hackernews klonu ekliyorum, 
   ama hic bir sirketin umrunda degil. Neden?
 * Yaprak’in Istanbul’da karsidan karsiya gecis macerasi.
@@ -210,7 +213,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Kantinde scorpicor gormek.
 * "3 gune biter mi?"
 * hashicorp vault ve business software license.
-* uyku onemli
+* uyku oneml
 * Mountain View school police lockdown.
 * acquisition nasil bir sey.
 * Bruce Lee ve yazilim.
