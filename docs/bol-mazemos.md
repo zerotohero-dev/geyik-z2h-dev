@@ -137,7 +137,8 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
-* hayatini degistren Williamlar
+* Hayatimizi degistiren William’lar
+* Is mulakati nasil 6 ay surer?
 * 12 Kasim 2023, VMware Secrets Manager Onboarding session nasildi?
 * Gerci ondan once daha VMware mulakatlarina girmedik 😄
 * 12 yasinda oyun yazmaca
@@ -145,8 +146,6 @@ Sonraki yayında konuşulabilir şeyler:
 * Tefeciye ihtiyacim var, nereden bulurum?
 * advices to your younger self
 * “sen yürü” dedi sensei.
-* Is mulakati nasil 6 ay surer?
-* Hayatimizi degistiren William’lar
 * 10 seneden sonra klima yaptırmak.
 * Amerika’daki egitim sistemi.
 * “Uyku” onemli mi?
