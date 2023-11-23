@@ -140,6 +140,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Hayatimizi degistiren William’lar
 * Is mulakati nasil 6 ay surer?
 * 12 Kasim 2023, VMware Secrets Manager Onboarding session nasildi?
+* Cisco hackathon
 * Gerci ondan once daha VMware mulakatlarina girmedik 😄
 * 12 yasinda oyun yazmaca
 * hic haksiz yere isten cikarildin mi?
