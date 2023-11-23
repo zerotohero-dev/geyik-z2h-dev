@@ -37,7 +37,7 @@ Daha fazlası için [Can’ın LinkedIn profilini ziyaret edebilirsin](https://w
 ## Hamza Erbay
 
 Hamza, Udemy’nin ciddi anlamda “kıdemli” yıldızlarından. Hatta rivayete göre 
-önce Udemy ofisinin temelini atmışlar, sonra Hamza’yi binaya yerleştirmişler, 
+önce Udemy ofisinin temelini atmışlar, sonra Hamza’yı binaya yerleştirmişler, 
 ardından binanın inşasını tamamlamışlar.
 
 Abonelik deneyimi ekibinin başında olan Hamza, asla sıradan bir mühendis değil: 
