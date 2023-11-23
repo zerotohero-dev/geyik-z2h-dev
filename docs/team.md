@@ -24,8 +24,8 @@ Koding'de, Can sadece kd.js’e katkıda bulunmakla kalmadı, neredeyse onun bak
 oldu. Mocha & Chai kullanarak hata düzeltme ve test yazma işlemini, bir barista
 kahve karışımını mükemmelleştirmesi gibi titizlikle yürüttü.
 
-ServiceNow’daki görevine başlamadan önce, Can 2016'dan 2018'e kadar Koding'de 
-Yazılım Mühendisi Stajyeri olarak görev yaptı ve kd.js'den ReactJS'e geçişte 
+ServiceNow’daki görevine başlamadan önce, Can 2016’dan 2018’e kadar Koding'de 
+Yazılım Mühendisi Stajyeri olarak görev yaptı ve kd.js’den ReactJS'e geçişte 
 cesurca ilerledi. React Router kullanarak rotalar oluştururken o kadar hevesliydi 
 ki, rotalar neredeyse kendi kendilerine saygıdan harita çizdiler. 
 
