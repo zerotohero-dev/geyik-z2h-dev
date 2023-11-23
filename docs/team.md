@@ -16,7 +16,7 @@ okyanusunda büyük dalgalar yapmasa da en azından küçük dalgaların sebebid
 
 Görevlerine bir tosbağa heyecanı ve… “bağzen” çok metodik bir tosbağanın 
 hassasiyetiyle yaklaşan bir mühendis, Can her zaman bir şeyler öğrenmeye
-çalışır. Mesela avokadolu tostu en güzel nasıl yersin? Can’ın cevabı:
+çalışır. Mesela avokadolu tost, en güzel nasıl yersin? Can’ın cevabı:
 “Avokadolu tostu en güzel, avokadolu tost makinesinde pişirilmiş olarak
 yenebilir, well… d’uh”dır. Öyle de ukaladır yani.
 
