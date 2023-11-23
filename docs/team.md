@@ -79,7 +79,7 @@ gibi uzaktan paketlenmiş işçiler tasarlayıp hepsini yan yana halay çektirir
 
 Halay demişken, Umut’dan daha iyi bir halay çeken olamaz… ki yukarıdaki metin
 az geyik içerse de bu konuda hayli ciddiyiz. Umut’dan mutlaka halay ve zeybek
-öğrenin, yoksa hayatınız eksik kalır.
+öğren, yoksa hayatın eksik kalır.
 
 Daha fazlası için [Umut’un LinkedIn profilini ziyaret 
 edebilirsin](https://www.linkedin.com/in/usirin/).
