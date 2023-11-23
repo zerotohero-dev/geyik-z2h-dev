@@ -11,7 +11,7 @@ Alfabetik sırayla:
 
 Gariban junior yazılım mühendisi. Umut’a o kadar benziyor ki bazen “ikiz” 
 diyorlar. Can, “az tecrübeli” olmanın “az yetenekli” olmak anlamına gelmediğinin
-canlı kanıtı. Mesela, Can nefesini tam 12 saniye tutabilir! Yazılım mühendisliği 
+canlı kanıtı. Mesela, Can, nefesini tam 12 saniye tutabilir! Yazılım mühendisliği 
 okyanusunda büyük dalgalar yapmasa da en azından küçük dalgaların sebebidir. 
 
 Görevlerine bir tosbağa heyecanı ve… “bağzen” çok metodik bir tosbağanın 
