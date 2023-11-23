@@ -15,7 +15,7 @@ canlı kanıtı. Mesela, Can nefesini tam 12 saniye tutabilir! Yazılım mühend
 okyanusunda büyük dalgalar yapmasa da en azından küçük dalgaların sebebidir. 
 
 Görevlerine bir tosbağa heyecanı ve… “bağzen” çok metodik bir tosbağanın 
-hassasiyetiyle yaklaşan bir mühendis, Can her zaman bir şeyler öğrenmeye
+hassasiyetiyle yaklaşan bir mühendis, Can, her zaman bir şeyler öğrenmeye
 çalışır. Mesela avokadolu tost, en güzel nasıl yersin? Can’ın cevabı:
 “Avokadolu tostu en güzel, avokadolu tost makinesinde pişirilmiş olarak
 yenebilir, well… d’uh”dır. Öyle de ukaladır yani.
