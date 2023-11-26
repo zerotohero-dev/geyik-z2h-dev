@@ -151,6 +151,12 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S06E01: Echoes of the Elders - (_40 dakika, 37 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S06E01-Echoes-of-the-Elders-e2cb3kl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S05E04: The Geyik Enigma - (_36 dakika, 36 saniye_)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S05E04-The-Geyik-Enigma-e2bl2su/a-aaj4qnb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
