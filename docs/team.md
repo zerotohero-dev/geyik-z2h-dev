@@ -9,12 +9,12 @@ Alfabetik sırayla:
 
 ## Can Şirin
 
-Gariban junior yazılım mühendisi. Umut’a o kadar benziyor ki bazen “ikiz” 
-diyorlar. Can, “az tecrübeli” olmanın “az yetenekli” olmak anlamına gelmediğinin
+Gariban junior yazılım mühendisi. Umut’a o kadar benziyor ki bazen “*ikiz*” 
+diyorlar. Can, “*az tecrübeli*” olmanın “*az yetenekli*” olmak anlamına gelmediğinin
 canlı kanıtı. Mesela, Can, nefesini tam 12 saniye tutabilir! Yazılım mühendisliği 
 okyanusunda büyük dalgalar yapmasa da en azından küçük dalgaların sebebidir. 
 
-Görevlerine bir tosbağa heyecanı ve… “bağzen” çok metodik bir tosbağanın 
+Görevlerine bir tosbağa heyecanı ve… “*bağzen*” çok metodik bir tosbağanın 
 hassasiyetiyle yaklaşan bir mühendis, Can, her zaman bir şeyler öğrenmeye
 çalışır. Mesela avokadolu tost, en güzel nasıl yersin? Can’ın cevabı:
 “Avokadolu tostu en güzel, avokadolu tost makinesinde pişirilmiş olarak
@@ -36,7 +36,7 @@ Daha fazlası için [Can’ın LinkedIn profilini ziyaret edebilirsin](https://w
 
 ## Hamza Erbay
 
-Hamza, Udemy’nin ciddi anlamda “kıdemli” yıldızlarından. Hatta rivayete göre 
+Hamza, Udemy’nin ciddi anlamda “*kıdemli*” yıldızlarından. Hatta rivayete göre 
 önce Udemy ofisinin temelini atmışlar, sonra Hamza’yı binaya yerleştirmişler, 
 ardından binanın inşasını tamamlamışlar.
 
@@ -91,7 +91,7 @@ ve bu yolculukta birçok startup’a kurucu ve ortak olarak öncülük etti. Far
 düşünmeyi, kavramlar arasında alakasız gibi görünen bağlantılar kurmayı ve 
 çok pis geyik yapmayı sever. İnovatiftir, ama sağı solu da belli olmazdır.
 
-Volkan, şu an VMware'de teknik lider olarak kariyerine yön veriyor.
+Volkan, şu an [Broadcom](https://www.broadcom.com)’da teknik lider olarak kariyerine yön veriyor.
 Bu bağlamda, yazılım mühendisliği alanındaki deneyimi, birikimi, ve yaratıcı 
 çözüm arayışlarıyla, teknoloji dünyasının karmaşık sorunlarına akılcı çözümler 
 getirmeyi sürdürüyor.
