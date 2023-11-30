@@ -143,6 +143,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Cisco hackathon
 * Gerci ondan once daha VMware mulakatlarina girmedik 😄
 * 12 yasinda oyun yazmaca
+* VSecM uzerinden guc oyunlari (ve the 48 laws of power)
 * hic haksiz yere isten cikarildin mi?
 * Tefeciye ihtiyacim var, nereden bulurum?
 * advices to your younger self
