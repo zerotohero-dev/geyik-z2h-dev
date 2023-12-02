@@ -151,6 +151,18 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S06E03: Guardians of the Geyik Lore - (_40 dakika, 28 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S06E03-Guardians-of-the-Geyik-Lore-e2cb3ub/a-aalauk1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S06E02: The Chronicles of the Geyik - (_40 dakika, 10 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S06E02-The-Chronicles-of-the-Geyik-e2cb3pj/a-aalau6o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S06E01: Echoes of the Elders - (_40 dakika, 37 saniye_)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S06E01-Echoes-of-the-Elders-e2cb3kl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
