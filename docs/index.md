@@ -151,6 +151,12 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S06E04: The Great Divide - (_40 dakika, 24 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S06E04-The-Great-Divide-e2cb42q" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S06E03: Guardians of the Geyik Lore - (_40 dakika, 28 saniye_)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S06E03-Guardians-of-the-Geyik-Lore-e2cb3ub/a-aalauk1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
