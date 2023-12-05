@@ -141,6 +141,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Is mulakati nasil 6 ay surer?
 * Return to office at broadcom
 * Don’t outshine your master
+* “Kasalari maviye boyadim 🎶”
 * VMware Broadcom arasi kultur farki—ilk izlenimler
 * 12 Kasim 2023, VMware Secrets Manager Onboarding session nasildi?
 * Cisco hackathon
@@ -159,18 +160,12 @@ Sonraki yayında konuşulabilir şeyler:
 * Yaprak’in Istanbul’da karsidan karsiya gecis macerasi.
 * Limoncello ve Joe Beda.
 * Abi bir seyi merak ettim. Bu kadar isi bir arada nasil yapiyorsun? (multitasking). 
-  Belki bir podcast konusu da 
-  olabilir bu. Onemli bir meziyet bence
-* Nasil not aliyoruz
+  Belki bir podcast konusu da olabilir bu. Onemli bir meziyet bence
 * Solak bardaklari—ozellikle kendim icin 😄 Tum dunya solaklara karsi.
 * Perry the Platypus ve “goz temasi”
 * vmware ve 6 ay mulakat maratonu
 * Bogazici ve “soguk su” etkisi
 * Hamza ile Tour de San Jose
-* Liderlik ve kariyer olaylari
-    * Mentor & mentee iletisimi
-    * OKR ne ki? 
-    * Takimi guduleme
 * 4 komutan
 * Ozan abi ben bi b`*`k yedim
 * full stack uber driver.
