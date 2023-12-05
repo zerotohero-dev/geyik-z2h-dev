@@ -8,7 +8,9 @@
           |   `.__________/)
 ```
 
-The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/
+## About
+
+The public Website of “Vadideki Geyik” Podcasts — https://vadidekigeyik.com/
 
 ## Quickstart
 
