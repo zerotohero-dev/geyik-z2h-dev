@@ -139,7 +139,8 @@ Sonraki yayında konuşulabilir şeyler:
 
 * Hayatimizi degistiren William’lar
 * Is mulakati nasil 6 ay surer?
-* Return to office at broadcom
+* VMware Secrets Manager session #2 (18’inde)
+* Return to office at broadcom—return to office in general—faydalari.
 * Don’t outshine your master
 * “Kasalari maviye boyadim 🎶”
 * VMware Broadcom arasi kultur farki—ilk izlenimler
