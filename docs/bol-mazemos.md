@@ -140,6 +140,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Hayatimizi degistiren William’lar
 * Is mulakati nasil 6 ay surer?
 * VMware Secrets Manager session #2 (18’inde)
+* Yeni T-Shirt Tasarimi
 * Return to office at broadcom—return to office in general—faydalari.
 * Don’t outshine your master
 * “Kasalari maviye boyadim 🎶”
