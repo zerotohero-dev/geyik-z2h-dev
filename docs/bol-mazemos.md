@@ -137,26 +137,24 @@ Sonraki yayında konuşulabilir şeyler:
 
 ## Önceki Yayında Yarım Kalanlar
 
+* “Uyku” onemli mi?
+* Ne tur vizeler var? Amerika’ya en rahat nasil kapak atarim?
+* advices to your younger self
 * Hayatimizi degistiren William’lar
 * Is mulakati nasil 6 ay surer?
+* Gerci ondan once daha VMware mulakatlarina girmedik 😄
 * VMware Secrets Manager session #2 (18’inde)
-* Yeni T-Shirt Tasarimi
-* Return to office at broadcom—return to office in general—faydalari.
 * Don’t outshine your master
 * “Kasalari maviye boyadim 🎶”
 * VMware Broadcom arasi kultur farki—ilk izlenimler
 * 12 Kasim 2023, VMware Secrets Manager Onboarding session nasildi?
 * Cisco hackathon
-* Gerci ondan once daha VMware mulakatlarina girmedik 😄
 * 12 yasinda oyun yazmaca
 * VSecM uzerinden guc oyunlari (ve the 48 laws of power)
-* hic haksiz yere isten cikarildin mi?
+x hic haksiz yere isten cikarildin mi?
 * Tefeciye ihtiyacim var, nereden bulurum?
-* advices to your younger self
 * “sen yürü” dedi sensei.
 * 10 seneden sonra klima yaptırmak.
-* Amerika’daki egitim sistemi.
-* “Uyku” onemli mi?
 * Open Source yapiyorum; kendi repom var, bol bol hackernews klonu ekliyorum, 
   ama hic bir sirketin umrunda degil. Neden?
 * Yaprak’in Istanbul’da karsidan karsiya gecis macerasi.
@@ -167,13 +165,10 @@ Sonraki yayında konuşulabilir şeyler:
 * Perry the Platypus ve “goz temasi”
 * vmware ve 6 ay mulakat maratonu
 * Bogazici ve “soguk su” etkisi
-* Hamza ile Tour de San Jose
 * 4 komutan
 * Ozan abi ben bi b`*`k yedim
 * full stack uber driver.
 * mc donald’s macerasi
-* Mission Street ablalari
-* jive -> cisco -> vmware
 * nasil geldik buralara
 * I Tipi, T Tipi, ve M Tipi insanlar; hangisi daha iyi.
 * “Sen simdi nerede mudur oldun?” — **mudur**, **title**, AMANIN!
@@ -200,7 +195,6 @@ Sonraki yayında konuşulabilir şeyler:
 * Jose Capablanca’ya is on gorusmesi (*phone screening*) teklifi.
 * Bir etkinligin nasil uc tane “ana” sponsoru olur?
 * Bir bar taburesinde ikinci senede 0.4/4 GPA
-* BUEPT (bogazici uni english profficency test)
 * Universitenin normalize etkisi ve birden “ortalama” olmak.
 * Diploma onemli mi?
 * Nasil oluyor da sinavda dil ogreniliyor?
@@ -217,7 +211,6 @@ Sonraki yayında konuşulabilir şeyler:
 * uyku oneml
 * Mountain View school police lockdown.
 * acquisition nasil bir sey.
-* Bruce Lee ve yazilim.
 * I don’t fit in… if anything, I fit out.
 * Yaş 12, yazdığım ilk program.
 * Bir suru hobi projesi yapmak mi, yoksa bir tane buyuk proje mi?
