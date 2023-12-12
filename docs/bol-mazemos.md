@@ -139,6 +139,8 @@ Sonraki yayında konuşulabilir şeyler:
 
 * “Uyku” onemli mi?
 * Ne tur vizeler var? Amerika’ya en rahat nasil kapak atarim?
+* “this old man” ve detone muzik dersi.
+* "yaptigim ispatlari sinifin onunde duzeltmese; sinif icinde otoritem kalmiyor"
 * advices to your younger self
 * Hayatimizi degistiren William’lar
 * Is mulakati nasil 6 ay surer?
