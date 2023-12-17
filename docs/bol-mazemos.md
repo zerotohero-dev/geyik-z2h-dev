@@ -139,10 +139,15 @@ Sonraki yayında konuşulabilir şeyler:
 
 * “Uyku” onemli mi?
 * Ne tur vizeler var? Amerika’ya en rahat nasil kapak atarim?
-* “this old man” ve detone muzik dersi.
+* “this old man” ve toplumun “sorgulamadan takip” eden suru psikolojisinde olmasinin farkindaligi.
 * "yaptigim ispatlari sinifin onunde duzeltmese; sinif icinde otoritem kalmiyor"
 * advices to your younger self
-* Hayatimizi degistiren William’lar
+* universite anilari
+  * Boris Beker ve bir hafta insan icine cikamama.
+  * Matemetik hocasi bosanmis.
+  * Kuzey ve Guney kampus arasindaki fark.
+  * Kulupler
+  * Bir muhendis olarak Bertland Russel’in ogrencisinden felsefe dersi alma manyakligi
 * Is mulakati nasil 6 ay surer?
 * Gerci ondan once daha VMware mulakatlarina girmedik 😄
 * VMware Secrets Manager session #2 (18’inde)
