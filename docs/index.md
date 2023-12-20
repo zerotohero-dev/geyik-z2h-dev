@@ -151,6 +151,24 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S07E03: Path of the Elders - (_40 dakika, 04 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S07E03-Path-of-the-Elders-e2db7sk/a-aaof568" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S07E02: The Veil of Mist - (_40 dakika, 21 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S07E02-The-Veil-of-Mist-e2db7p7/a-aaof4pr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S07E01: Twilight of the Geyik - (_40 dakika, 15 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S07E01-Twilight-of-the-Geyik-e2db7ce/a-aaof4c0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S06E05: The Geyik Ascends - (_31 dakika, 07 saniye_)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S06E05-The-Geyik-Ascends-e2cb46i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
