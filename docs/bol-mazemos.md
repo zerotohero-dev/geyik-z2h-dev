@@ -138,6 +138,12 @@ Sonraki yayında konuşulabilir şeyler:
 ## Önceki Yayında Yarım Kalanlar
 
 * “Uyku” onemli mi?
+* AWS sertifikasi aldim; onemli mi?
+* Kariyerimin basindayim, ne gibi life hack’ler onerirsin ki sukela kariyerim olsun?
+* startup’da calismanin avantaji/dezavantaji
+* kurumsal sirkette calismanin avantaji/dezavantaji
+* Kimya muhendisligi mezunuyum, yazilma basladim; dogru mu yapiyorum? Kendi alanimda calismayinca garip geliyor.
+* AI nereye gidiyor? Mesela 10 kisi calistiran bir sirket, AI geldi diye 8 kisi calistirma yoluna gider mi?
 * Ne tur vizeler var? Amerika’ya en rahat nasil kapak atarim?
 * “this old man” ve toplumun “sorgulamadan takip” eden suru psikolojisinde olmasinin farkindaligi.
 * "yaptigim ispatlari sinifin onunde duzeltmese; sinif icinde otoritem kalmiyor"
