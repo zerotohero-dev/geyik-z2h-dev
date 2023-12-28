@@ -151,6 +151,12 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S07E04: The Final Vortex - (_40 dakika, 38 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S07E04-The-Final-Vortex-e2db81h" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S07E03: Path of the Elders - (_40 dakika, 04 saniye_)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S07E03-Path-of-the-Elders-e2db7sk/a-aaof568" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
