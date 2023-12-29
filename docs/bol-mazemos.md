@@ -148,6 +148,8 @@ Sonraki yayında konuşulabilir şeyler:
 * “this old man” ve toplumun “sorgulamadan takip” eden suru psikolojisinde olmasinin farkindaligi.
 * "yaptigim ispatlari sinifin onunde duzeltmese; sinif icinde otoritem kalmiyor"
 * advices to your younger self
+* Las vegas: bu kadar ucuz olmamai oteller; daycare parasini kumardna kazanmak
+* saglikli yasam ve kopruden onceki son cikis.
 * universite anilari
   * Boris Beker ve bir hafta insan icine cikamama.
   * Matemetik hocasi bosanmis.
