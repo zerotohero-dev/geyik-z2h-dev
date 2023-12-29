@@ -154,17 +154,12 @@ Sonraki yayında konuşulabilir şeyler:
   * Kuzey ve Guney kampus arasindaki fark.
   * Kulupler
   * Bir muhendis olarak Bertland Russel’in ogrencisinden felsefe dersi alma manyakligi
-* Is mulakati nasil 6 ay surer?
-* Gerci ondan once daha VMware mulakatlarina girmedik 😄
-* VMware Secrets Manager session #2 (18’inde)
+* Is mulakati nasil 6 ay surer? / Gerci ondan once daha VMware mulakatlarina girmedik 😄
 * Don’t outshine your master
 * “Kasalari maviye boyadim 🎶”
-* VMware Broadcom arasi kultur farki—ilk izlenimler
-* 12 Kasim 2023, VMware Secrets Manager Onboarding session nasildi?
 * Cisco hackathon
 * 12 yasinda oyun yazmaca
 * VSecM uzerinden guc oyunlari (ve the 48 laws of power)
-x hic haksiz yere isten cikarildin mi?
 * Tefeciye ihtiyacim var, nereden bulurum?
 * “sen yürü” dedi sensei.
 * 10 seneden sonra klima yaptırmak.
