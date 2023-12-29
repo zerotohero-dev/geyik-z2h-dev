@@ -1,3 +1,13 @@
+```text 
+( Vadideki Geyik )
+   `--(_   _)--'
+        Y-Y
+       /@@ \   don’t miss the deer, 
+      /     \    go kiss the deer.
+      `--'.  \             ,
+          |   `.__________/)
+```
+
 ## Al Pacino De La Formatte
 
 1. Yayin ortalama iki saat surecek (2 saat 12 dakka gibi): bize nurtopu gibi 3 
