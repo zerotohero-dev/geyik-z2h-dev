@@ -156,6 +156,18 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S08E02: Whispers of the Wind - (_41 dakika, 33 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S08E02-Whispers-of-the-Wind-e2dtcie/a-aaq2sj9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S08E01: Aftermath of the Stand - (_40 dakika, 19 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S08E01-Aftermath-of-the-Stand-e2dtcg7/a-aaq2sc8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S07E04: The Final Vortex - (_40 dakika, 38 saniye_)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S07E04-The-Final-Vortex-e2db81h" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
