@@ -156,6 +156,18 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S08E04: Beyond the Horizon - (_30 dakika, 52 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S08E03-The-Geyiks-Odyssey-e2dtckf/a-aaq2spe" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S08E03: The Geyik’s Odyssey - (_39 dakika, 15 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S08E03-The-Geyiks-Odyssey-e2dtckf/a-aaq2spe" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S08E02: Whispers of the Wind - (_41 dakika, 33 saniye_)
 
 <iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S08E02-Whispers-of-the-Wind-e2dtcie/a-aaq2sj9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
