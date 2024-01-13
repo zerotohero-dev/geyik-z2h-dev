@@ -138,6 +138,7 @@ Sonraki yayında konuşulabilir şeyler:
 ## Önceki Yayında Yarım Kalanlar
 
 * “Uyku” onemli mi?
+* Fedakarlik ve cok calismak: “cok calisma”nin tanimi ne?
 * AWS sertifikasi aldim; onemli mi?
 * Kariyerimin basindayim, ne gibi life hack’ler onerirsin ki sukela kariyerim olsun?
 * startup’da calismanin avantaji/dezavantaji
@@ -151,19 +152,15 @@ Sonraki yayında konuşulabilir şeyler:
 * Las vegas: bu kadar ucuz olmamai oteller; daycare parasini kumardna kazanmak
 * saglikli yasam ve kopruden onceki son cikis.
 * universite anilari
-  * Boris Beker ve bir hafta insan icine cikamama.
-  * Matemetik hocasi bosanmis.
+  * “Kasalari maviye boyadim 🎶”
   * Kuzey ve Guney kampus arasindaki fark.
   * Kulupler
   * Bir muhendis olarak Bertland Russel’in ogrencisinden felsefe dersi alma manyakligi
 * Is mulakati nasil 6 ay surer? / Gerci ondan once daha VMware mulakatlarina girmedik 😄
 * Don’t outshine your master
-* “Kasalari maviye boyadim 🎶”
-* Cisco hackathon
 * 12 yasinda oyun yazmaca
 * VSecM uzerinden guc oyunlari (ve the 48 laws of power)
 * Tefeciye ihtiyacim var, nereden bulurum?
-* “sen yürü” dedi sensei.
 * 10 seneden sonra klima yaptırmak.
 * Open Source yapiyorum; kendi repom var, bol bol hackernews klonu ekliyorum, 
   ama hic bir sirketin umrunda degil. Neden?
@@ -173,7 +170,6 @@ Sonraki yayında konuşulabilir şeyler:
   Belki bir podcast konusu da olabilir bu. Onemli bir meziyet bence
 * Solak bardaklari—ozellikle kendim icin 😄 Tum dunya solaklara karsi.
 * Perry the Platypus ve “goz temasi”
-* vmware ve 6 ay mulakat maratonu
 * Bogazici ve “soguk su” etkisi
 * 4 komutan
 * Ozan abi ben bi b`*`k yedim
