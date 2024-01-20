@@ -156,9 +156,21 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### S09E02: Legacy of the Lost - (_40 dakika, 12 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S09E02-Legacy-of-the-Lost-e2eilt6/a-aarte77" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
+### S9E01: Realms of the Unknown - (_40 dakika, 30 saniye_)
+
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S9E01-Realms-of-the-Unknown-e2eilof/a-aartdp6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>&nbsp;</p>
+
 ### S08E04: Beyond the Horizon - (_30 dakika, 52 saniye_)
 
-<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S08E03-The-Geyiks-Odyssey-e2dtckf/a-aaq2spe" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/vadideki-geyik/embed/episodes/S08E04-Beyond-the-Horizon-e2dtcm9/a-aaq2svq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 <p>&nbsp;</p>
 
