@@ -138,6 +138,7 @@ Sonraki yayında konuşulabilir şeyler:
 ## Önceki Yayında Yarım Kalanlar
 
 * “Uyku” onemli mi?
+* cocuklara programlama ogretilmeli mi? erken degil mi?
 * Fedakarlik ve cok calismak: “cok calisma”nin tanimi ne?
 * AWS sertifikasi aldim; onemli mi?
 * Kariyerimin basindayim, ne gibi life hack’ler onerirsin ki sukela kariyerim olsun?
@@ -145,23 +146,19 @@ Sonraki yayında konuşulabilir şeyler:
 * kurumsal sirkette calismanin avantaji/dezavantaji
 * Kimya muhendisligi mezunuyum, yazilma basladim; dogru mu yapiyorum? Kendi alanimda calismayinca garip geliyor.
 * AI nereye gidiyor? Mesela 10 kisi calistiran bir sirket, AI geldi diye 8 kisi calistirma yoluna gider mi?
-* Ne tur vizeler var? Amerika’ya en rahat nasil kapak atarim?
 * “this old man” ve toplumun “sorgulamadan takip” eden suru psikolojisinde olmasinin farkindaligi.
 * "yaptigim ispatlari sinifin onunde duzeltmese; sinif icinde otoritem kalmiyor"
 * advices to your younger self
 * Las vegas: bu kadar ucuz olmamai oteller; daycare parasini kumardna kazanmak
-* saglikli yasam ve kopruden onceki son cikis.
 * universite anilari
   * “Kasalari maviye boyadim 🎶”
   * Kuzey ve Guney kampus arasindaki fark.
   * Kulupler
   * Bir muhendis olarak Bertland Russel’in ogrencisinden felsefe dersi alma manyakligi
-* Is mulakati nasil 6 ay surer? / Gerci ondan once daha VMware mulakatlarina girmedik 😄
-* Don’t outshine your master
+* Don’t outshine your master ve diger kurumsal ortam ipuclari.
 * 12 yasinda oyun yazmaca
-* VSecM uzerinden guc oyunlari (ve the 48 laws of power)
+* VSecM uzerinden guc oyunlari
 * Tefeciye ihtiyacim var, nereden bulurum?
-* 10 seneden sonra klima yaptırmak.
 * Open Source yapiyorum; kendi repom var, bol bol hackernews klonu ekliyorum, 
   ama hic bir sirketin umrunda degil. Neden?
 * Yaprak’in Istanbul’da karsidan karsiya gecis macerasi.
