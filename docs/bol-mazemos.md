@@ -138,6 +138,13 @@ Sonraki yayında konuşulabilir şeyler:
 ## Önceki Yayında Yarım Kalanlar
 
 * “Uyku” onemli mi?
+* “Intrapreneurship” nasil bisey?
+* silikon vadisi’nde “zenginlik” seviyeleri (level 0: markete gittiginde fiyat 
+  bakmadan istedigini almak; kasa fisine bakmamak)
+* “Ben guvercin degilim” dedim 😄
+* WFH takım arkadaşı tarafından ghostlanmış olmak var ama ben harici kaç kişi 
+  yaşamıştır, bilmiyorum (ilintili: Cisco, pandemi oncesi bile hibriddi; 
+  kendini yalniz hissedebiliyordun, ayri bir alisma sureci o)
 * cocuklara programlama ogretilmeli mi? erken degil mi?
 * Fedakarlik ve cok calismak: “cok calisma”nin tanimi ne?
 * AWS sertifikasi aldim; onemli mi?
