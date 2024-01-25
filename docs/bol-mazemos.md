@@ -139,6 +139,10 @@ Sonraki yayında konuşulabilir şeyler:
 
 * “Uyku” onemli mi?
 * “Intrapreneurship” nasil bisey?
+* quote: “Yaya yaya okumayacaksin; odakli olarak giriseceksin; 
+  stratejin olacak, icerige gore stratejin dogrultusunda ilerleyeceksin.”
+    * abi burada strateji olarak nasil davraniyorsun tam olarak? Hic bilmedigin 
+      bir konu hakkinda onden plani nasil yapabiliriz ki?
 * silikon vadisi’nde “zenginlik” seviyeleri (level 0: markete gittiginde fiyat 
   bakmadan istedigini almak; kasa fisine bakmamak)
 * “Ben guvercin degilim” dedim 😄
