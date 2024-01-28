@@ -12,7 +12,7 @@ title: 🏡🦌
 </p>
 </div>
 
-<svg 
+<svg
 style="float:left;margin:1em;margin-top:0"
 width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
@@ -156,151 +156,73 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E05-Starlit-Path-e2eimbt/a-aartfdd">S09E05: Starlit Path - (30 dakika, 05 saniye)</a>
+### Sezon 10
 
-<p>&nbsp;</p>
+@Can: ellerinden oper.
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E04-Shadows-and-Light-e2eim79/a-aartf19">S09E04: Shadows and Light - (40 dakika, 51 saniye)</a>
+### Sezon 9
 
-<p>&nbsp;</p>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E05-Starlit-Path-e2eimbt/a-aartfdd">S09E05: Starlit Path - (30 dakika, 05 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E04-Shadows-and-Light-e2eim79/a-aartf19">S09E04: Shadows and Light - (40 dakika, 51 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E03-The-Geyiks-Lament-e2eim2v/a-aartelf">S09E03: The Geyik’s Lament - (41 dakika)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E02-Legacy-of-the-Lost-e2eilt6/a-aarte77">S09E02: Legacy of the Lost - (40 dakika, 12 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S9E01-Realms-of-the-Unknown-e2eilof/a-aartdp6">S9E01: Realms of the Unknown - (40 dakika, 30 saniye)</a>
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E03-The-Geyiks-Lament-e2eim2v/a-aartelf">S09E03: The Geyik’s Lament - (41 dakika)</a>
+### Sezon 8
 
-<p>&nbsp;</p>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S08E04-Beyond-the-Horizon-e2dtcm9/a-aaq2svq">S08E04: Beyond the Horizon - (30 dakika, 52 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S08E03-The-Geyiks-Odyssey-e2dtckf/a-aaq2spe">S08E03: The Geyik’s Odyssey - (39 dakika, 15 saniye)</a>
+ * <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S08E02-Whispers-of-the-Wind-e2dtcie/a-aaq2sj9">S08E02: Whispers of the Wind - (41 dakika, 33 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S08E01-Aftermath-of-the-Stand-e2dtcg7/a-aaq2sc8">S08E01: Aftermath of the Stand - (40 dakika, 19 saniye)</a>
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E02-Legacy-of-the-Lost-e2eilt6/a-aarte77">S09E02: Legacy of the Lost - (40 dakika, 12 saniye)</a>
+### Sezon 7
 
-<p>&nbsp;</p>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S07E04-The-Final-Vortex-e2db81h">S07E04: The Final Vortex - (40 dakika, 38 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S07E03-Path-of-the-Elders-e2db7sk/a-aaof568">S07E03: Path of the Elders - (40 dakika, 04 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S07E02-The-Veil-of-Mist-e2db7p7/a-aaof4pr">S07E02: The Veil of Mist - (40 dakika, 21 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S07E01-Twilight-of-the-Geyik-e2db7ce/a-aaof4c0">S07E01: Twilight of the Geyik - (40 dakika, 15 saniye)</a>
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S9E01-Realms-of-the-Unknown-e2eilof/a-aartdp6">S9E01: Realms of the Unknown - (40 dakika, 30 saniye)</a>
+### Sezon 6
 
-<p>&nbsp;</p>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E05-The-Geyik-Ascends-e2cb46i">S06E05: The Geyik Ascends - (31 dakika, 07 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E04-The-Great-Divide-e2cb42q">S06E04: The Great Divide - (40 dakika, 24 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E03-Guardians-of-the-Geyik-Lore-e2cb3ub/a-aalauk1">S06E03: Guardians of the Geyik Lore - (40 dakika, 28 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E02-The-Chronicles-of-the-Geyik-e2cb3pj/a-aalau6o">S06E02: The Chronicles of the Geyik - (40 dakika, 10 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E01-Echoes-of-the-Elders-e2cb3kl">S06E01: Echoes of the Elders - (40 dakika, 37 saniye)</a>
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S08E04-Beyond-the-Horizon-e2dtcm9/a-aaq2svq">S08E04: Beyond the Horizon - (30 dakika, 52 saniye)</a>
+### Sezon 5
 
-<p>&nbsp;</p>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S05E04-The-Geyik-Enigma-e2bl2su/a-aaj4qnb">S05E04: The Geyik Enigma - (36 dakika, 36 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S05E03-The-Monarch-of-the-Glen-e2bl2qr/a-aaj4qik">S05E03: The Monarch of the Glen - (40 dakika, 48 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S05E02-The-Geyik-Chronicles-e2bl2ok">S05E02: The Geyik Chronicles - (41 dakika, 04 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S05E01-Whispers-in-the-Wilderness-e2bl2ln/a-aaj4q52">S05E01: Whispers in the Wilderness - (43 dakika, 25 saniye)</a>
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S08E03-The-Geyiks-Odyssey-e2dtckf/a-aaq2spe">S08E03: The Geyik’s Odyssey - (39 dakika, 15 saniye)</a>
+### Sezon 4
 
-<p>&nbsp;</p>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S04E04-The-Eternal-Herd-e2bb3sn/a-aai5rjn">S04E04: The Eternal Herd - (27 dakika, 13 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S04E03-Geyik-Reborn-e2bb3qk/a-aai5rbi">S04E03: Geyik Reborn - (42 dakika, 14 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S04E02-Shadows-Over-the-Meadow-e2bb3ni/a-aai5r3n">S04E02: Shadows Over the Meadow - (42 dakika, 14 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S04E01-The-Geyik-Prophecy-e2bb3k2/a-aai5qpo">S04E01: The Geyik Prophecy - (40 dakika, 22 saniye)</a>
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S08E02-Whispers-of-the-Wind-e2dtcie/a-aaq2sj9">S08E02: Whispers of the Wind - (41 dakika, 33 saniye)</a>
+### Sezon 3
 
-<p>&nbsp;</p>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S03E04-Infinity-Meadows-e2b429k">S03E04: Infinity Meadows - (30 dakika, 46 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S03E03-The-Geyik-Legacy-e2b41t9/a-aahg0vt">S03E03: The Geyik Legacy - (42 dakika, 19 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S03E02-Geyik-Unleashed-e2b41ds/a-aahfv8s">S03E02: Geyik Unleashed - (42 dakika)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S03E01-The-Two-Herds-e2b405r/a-aahfrg9">S03E01: The Two Herds - (41 dakika, 35 saniye)</a>
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S08E01-Aftermath-of-the-Stand-e2dtcg7/a-aaq2sc8">S08E01: Aftermath of the Stand - (40 dakika, 19 saniye)</a>
+### Sezon 2
 
-<p>&nbsp;</p>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-6-Return-of-the-Alpha-Geyik-e2af2qb">S02E05: Return of the Alpha Geyik - (30 dakika, 3 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-5-The-Geyik-Uprising-e2af2lq/a-aafdu79">S02E04: The Geyik Uprising — (29 dakika, 50 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-4-A-New-Habitat-e2af2gh/a-aafdtml">S02E03: A New Habitat — (40 dakika, 25 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-3-Revenge-of-the-Forest-e2af2a9/a-aafdstr">S02E02: Revenge of the Forest — (40 dakika, 14 saniye)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-2-Attack-of-the-Geyiks-e2adunu">S02E01: Attack of the Geyiks — (40 dakika, 25 saniye)</a>
 
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S07E04-The-Final-Vortex-e2db81h">S07E04: The Final Vortex - (40 dakika, 38 saniye)</a>
+### Sezon 1
 
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S07E03-Path-of-the-Elders-e2db7sk/a-aaof568">S07E03: Path of the Elders - (40 dakika, 04 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S07E02-The-Veil-of-Mist-e2db7p7/a-aaof4pr">S07E02: The Veil of Mist - (40 dakika, 21 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S07E01-Twilight-of-the-Geyik-e2db7ce/a-aaof4c0">S07E01: Twilight of the Geyik - (40 dakika, 15 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E05-The-Geyik-Ascends-e2cb46i">S06E05: The Geyik Ascends - (31 dakika, 07 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E04-The-Great-Divide-e2cb42q">S06E04: The Great Divide - (40 dakika, 24 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E03-Guardians-of-the-Geyik-Lore-e2cb3ub/a-aalauk1">S06E03: Guardians of the Geyik Lore - (40 dakika, 28 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E02-The-Chronicles-of-the-Geyik-e2cb3pj/a-aalau6o">S06E02: The Chronicles of the Geyik - (40 dakika, 10 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S06E01-Echoes-of-the-Elders-e2cb3kl">S06E01: Echoes of the Elders - (40 dakika, 37 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S05E04-The-Geyik-Enigma-e2bl2su/a-aaj4qnb">S05E04: The Geyik Enigma - (36 dakika, 36 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S05E03-The-Monarch-of-the-Glen-e2bl2qr/a-aaj4qik">S05E03: The Monarch of the Glen - (40 dakika, 48 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S05E02-The-Geyik-Chronicles-e2bl2ok">S05E02: The Geyik Chronicles - (41 dakika, 04 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S05E01-Whispers-in-the-Wilderness-e2bl2ln/a-aaj4q52">S05E01: Whispers in the Wilderness - (43 dakika, 25 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S04E04-The-Eternal-Herd-e2bb3sn/a-aai5rjn">S04E04: The Eternal Herd - (27 dakika, 13 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S04E03-Geyik-Reborn-e2bb3qk/a-aai5rbi">S04E03: Geyik Reborn - (42 dakika, 14 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S04E02-Shadows-Over-the-Meadow-e2bb3ni/a-aai5r3n">S04E02: Shadows Over the Meadow - (42 dakika, 14 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S04E01-The-Geyik-Prophecy-e2bb3k2/a-aai5qpo">S04E01: The Geyik Prophecy - (40 dakika, 22 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S03E04-Infinity-Meadows-e2b429k">S03E04: Infinity Meadows - (30 dakika, 46 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S03E03-The-Geyik-Legacy-e2b41t9/a-aahg0vt">S03E03: The Geyik Legacy - (42 dakika, 19 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S03E02-Geyik-Unleashed-e2b41ds/a-aahfv8s">S03E02: Geyik Unleashed - (42 dakika)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S03E01-The-Two-Herds-e2b405r/a-aahfrg9">S03E01: The Two Herds - (41 dakika, 35 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-6-Return-of-the-Alpha-Geyik-e2af2qb">S02E05: Return of the Alpha Geyik - (30 dakika, 3 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-5-The-Geyik-Uprising-e2af2lq/a-aafdu79">S02E04: The Geyik Uprising — (29 dakika, 50 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-4-A-New-Habitat-e2af2gh/a-aafdtml">S02E03: A New Habitat — (40 dakika, 25 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-3-Revenge-of-the-Forest-e2af2a9/a-aafdstr">S02E02: Revenge of the Forest — (40 dakika, 14 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-2-Attack-of-the-Geyiks-e2adunu">S02E01: Attack of the Geyiks — (40 dakika, 25 saniye)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-1-The-Phantom-Geyik-e2a118j">S01E02: The Phantom Geyik — (3 saat, 30 dakika)</a>
-
-<p>&nbsp;</p>
-
-<a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-0-Teaser-e29mtet/a-aad346i">S01E01: Teaser</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-1-The-Phantom-Geyik-e2a118j">S01E02: The Phantom Geyik — (3 saat, 30 dakika)</a>
+* <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/Episode-0-Teaser-e29mtet/a-aad346i">S01E01: Teaser</a>
 
 <p>&nbsp;</p>
 
