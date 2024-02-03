@@ -141,6 +141,7 @@ Sonraki yayında konuşulabilir şeyler:
 * Paşaport onemli.
 * Geyik: broadcomda sabah kahvaltisi
 * Korfez bolgesinde 2 sene arabasiz nasil yasanir?
+* HR: biz size guveniyoruz, ofise gelin de, ne zaman geldiginiz onemli degil.
 * VSecM maintainer access removal olayi
 * 30K kredi karti borcu, developer maasiyla nasil hizlica kapatilir?
 * Boncuk ve boru.
