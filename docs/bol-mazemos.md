@@ -138,7 +138,10 @@ Sonraki yayında konuşulabilir şeyler:
 ## Önceki Yayında Yarım Kalanlar
 
 * “Uyku” onemli mi?
+* Paşaport onemli.
+* Geyik: broadcomda sabah kahvaltisi
 * Korfez bolgesinde 2 sene arabasiz nasil yasanir?
+* VSecM maintainer access removal olayi
 * 30K kredi karti borcu, developer maasiyla nasil hizlica kapatilir?
 * Boncuk ve boru.
 * “Mert var; sinif arkadasim; o olur mu?”
