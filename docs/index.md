@@ -170,7 +170,7 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 - ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E04-Shadows-and-Light-e2eim79/a-aartf19">S09E04: Shadows and Light - (40 dakika, 51 saniye)</a>
 - ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E03-The-Geyiks-Lament-e2eim2v/a-aartelf">S09E03: The Geyik’s Lament - (41 dakika)</a>
 - ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E02-Legacy-of-the-Lost-e2eilt6/a-aarte77">S09E02: Legacy of the Lost - (40 dakika, 12 saniye)</a>
-- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S9E01-Realms-of-the-Unknown-e2eilof/a-aartdp6">S9E01: Realms of the Unknown - (40 dakika, 30 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S9E01-Realms-of-the-Unknown-e2eilof/a-aartdp6">S09E01: Realms of the Unknown - (40 dakika, 30 saniye)</a>
 
 ### 🎙️ Sezon 8
 
