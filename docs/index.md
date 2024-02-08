@@ -7,7 +7,7 @@ title: 🏡🦌
 >🦌 Hey Dostum, Bir Sonraki Canlı Yayın Ne Zaman? 🦌</h1>
 <p style="background-color: #ffffff; transform: rotate(-4deg); box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.16), 0 8px 8px rgba(0,0,0,0.20);"
 >
-10 Şubat, Cumartesi, sabah 10:00 pasifik saati
+10 Şubat, Cumartesi, sabah 09:00 pasifik saati
 <!-- Seneye bakarız dostum, seneye bakarız. 🦌 -->
 </p>
 </div>
@@ -158,7 +158,9 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ### 🎙️ Sezon 10
 
-- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S09E05-Starlit-Path-e2eimbt/a-aartfdd">S10E03: Echoes of Eternity - (40 dakika, 22 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S10E05-The-Summit-of-Destiny-e2f1ve2/a-aata7h9">S10E05: The Summit of Destiny - (25 dakika, 22 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S10E04-The-Forgotten-Vale-e2f1v9s/a-aata775">S10E04: The Forgotten Vale - (35 dakika, 42 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S10E03-Echoes-of-Eternity-e2f1v65/a-aata6u8">S10E03: Echoes of Eternity - (40 dakika, 22 saniye)</a>
 - ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S10E02-Geyiks-Gambit-e2f1v0b/a-aata6eu">S10E02: Geyik’s Gambit - (41 dakika, 24 saniye)</a>
 - ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S10E01-Crossroads-of-Fate-e2f1mh0/a-aat9e19">S10E01: Crossroads of Fate - (40 dakika, 18 saniye)</a>
 
