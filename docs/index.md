@@ -7,7 +7,7 @@ title: 🏡🦌
 >🦌 Hey Dostum, Bir Sonraki Canlı Yayın Ne Zaman? 🦌</h1>
 <p style="background-color: #ffffff; transform: rotate(-4deg); box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.16), 0 8px 8px rgba(0,0,0,0.20);"
 >
-10 Şubat, Cumartesi, sabah 09:00 pasifik saati
+24 Şubat, Cumartesi, sabah 10:00 pasifik saati
 <!-- Seneye bakarız dostum, seneye bakarız. 🦌 -->
 </p>
 </div>
@@ -155,6 +155,10 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 <div style="clear:both;"></div>
 
 ## Yayınlar
+
+### 🎙️ Sezon 11
+
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S11E01-The-Geyik-Reckoning-e2fop7r">S11E01: The Geyik Reckoning - (41 dakika, 17 saniye)</a>
 
 ### 🎙️ Sezon 10
 
