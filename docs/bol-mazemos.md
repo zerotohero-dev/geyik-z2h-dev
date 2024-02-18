@@ -148,7 +148,6 @@ Sonraki yayında konuşulabilir şeyler:
 * 30K kredi karti borcu, developer maasiyla nasil hizlica kapatilir?
 * Boncuk ve boru.
 * “Mert var; sinif arkadasim; o olur mu?”
-* “Intrapreneurship” nasil bisey?
 * quote: “Yaya yaya okumayacaksin; odakli olarak giriseceksin;
   stratejin olacak, icerige gore stratejin dogrultusunda ilerleyeceksin.”
     * abi burada strateji olarak nasil davraniyorsun tam olarak? Hic bilmedigin
@@ -228,9 +227,7 @@ Sonraki yayında konuşulabilir şeyler:
 * tekne partisi ve tekne mafyasi
 * politika ve “biz ne yapiyoruz burada lan?” sorusu
 * Kantinde scorpicor gormek.
-* "3 gune biter mi?"
 * hashicorp vault ve business software license.
-* uyku oneml
 * Mountain View school police lockdown.
 * acquisition nasil bir sey.
 * I don’t fit in… if anything, I fit out.
