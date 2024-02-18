@@ -157,8 +157,8 @@ style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 ## VSecM Bug Bash
 
 * [VMware Secrets Manager Bug Bash (*YouTube Playlist*)](https://youtube.com/playlist?list=PL9Ms961L-BDvu1k0zzy8HzSY7DTdwmfzp&si=tI1RmWIa1oO9yM0E)
-* [VMware Secrets Manager Bug Bash (*Vimeo Showcase*)](https://vimeo.com/showcase/10981732)
 * [VMware Secrets Manager Bug Bash (*Twitch Playlist*)](https://www.twitch.tv/collections/yfVumGTbtBeaxw)
+* [VMware Secrets Manager Bug Bash (*Vimeo Showcase*)](https://vimeo.com/showcase/10981732)
 
 <p style="margin:0"><br></p>
 
