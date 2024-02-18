@@ -142,15 +142,15 @@ Daha iyi eğitim platformu yok.
 
 ## Yakında Açılacak Dersler
 
-* Kubernetes 101 — Kubernetes Temelleri
-* Go 101 — Go Programlama Diline Giriş
-* Docker 101 — Docker Temelleri
-* Networking 101 — Temel Network Bilgisi
-* SPIFFE 101 — SPIFFE ve SPIRE’a Giriş
-* AWS 101 — Amazon Web Services Temelleri
-* O-RAN 101 — Open Radio Access Network Temelleri
-* Istio 101 — Istio Servis Mesh Temelleri
-* Helm 101 — Helm Temelleri
+* **K8S101** — Kubernetes Temelleri
+* **GOL101** — Go Programlama Diline Giriş
+* **DOC101** — Docker Temelleri
+* **NET101** — Temel Network Bilgisi
+* **SPF101** — SPIFFE ve SPIRE’a Giriş
+* **AWS101** — Amazon Web Services Temelleri
+* **ORN101** — Open Radio Access Network Temelleri
+* **IST101** — Istio Servis Mesh Temelleri
+* **HLM101** — Helm Temelleri
 
 ----
 
