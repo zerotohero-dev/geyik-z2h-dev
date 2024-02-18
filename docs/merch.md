@@ -1,5 +1,5 @@
 ---
-title: Merch 💎
+title: Geyik Merch 💎
 ---
 
 <svg

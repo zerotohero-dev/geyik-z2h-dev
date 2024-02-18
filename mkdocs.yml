@@ -7,4 +7,4 @@ theme:
   name: terminal
   custom_dir: overrides
   features:
-    - navigation.side.hide
+    - navigation.top.hide
