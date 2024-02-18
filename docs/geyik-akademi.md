@@ -140,6 +140,20 @@ Daha iyi eğitim platformu yok.
 
 ----
 
+## Yakında Açılacak Dersler
+
+* Kubernetes 101 — Kubernetes Temelleri
+* Go 101 — Go Programlama Diline Giriş
+* Docker 101 — Docker Temelleri
+* Networking 101 — Temel Network Bilgisi
+* SPIFFE 101 — SPIFFE ve SPIRE’a Giriş
+* AWS 101 — Amazon Web Services Temelleri
+* O-RAN 101 — Open Radio Access Network Temelleri
+* Istio 101 — Istio Servis Mesh Temelleri
+* Helm 101 — Helm Temelleri
+
+----
+
 ## VSecM Onboarding
 
 * [VMware Secrets Manager Onboarding (*Vimeo Showcase*)](https://vimeo.com/showcase/10981999)
