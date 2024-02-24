@@ -158,6 +158,10 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ### 🎙️ Sezon 11
 
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S11E04-Harmonious-Edge-e2fopst/a-aavht92">S11E04: Harmonious Edge - (23 dakika, 1 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S11E03-The-Geyiks-Quest-e2fopq2/a-aavhsuq">S11E03: The Geyik’s Quest - (39 dakika, 57 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S11E02-Whispers-of-the-Ancients-e2fopb8/a-aavhsof">
+  S11E02: Whispers of the Ancients - (40 dakika, 52 saniye)</a>
 - ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S11E01-The-Geyik-Reckoning-e2fop7r">S11E01: The Geyik Reckoning - (41 dakika, 17 saniye)</a>
 
 ### 🎙️ Sezon 10
