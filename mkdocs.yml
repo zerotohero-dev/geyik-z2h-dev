@@ -8,3 +8,13 @@ theme:
   custom_dir: overrides
   features:
     - navigation.top.hide
+
+nav:
+  - 'Ana Geyik 🦌': 'index.md'
+  - 'Hemen Abone Ol 🎧': 'subscribe.md'
+  - 'Biz Kimiz 🌳': 'team.md'
+  - 'Merch 💎': 'merch.md'
+  - 'Bol Mazemos 🍱': 'bol-mazemos.md'
+  - 'Geyik Akademi 🎓':
+    - 'Ana Sayfa 🏫': 'geyik-akademi.md'
+    - 'K8S101': 'k8s101/lecture001/000-prerequisites.md'
