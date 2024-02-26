@@ -1,3 +1,13 @@
+/*
+ *  ( Vadideki Geyik )
+ *   `--(_   _)--'
+ *        Y-Y
+ *       /@@ \   don’t miss the deer,
+ *      /     \    go kiss the deer.
+ *      `--'.  \             ,
+ *          |   `.__________/)
+ */
+
 package main
 
 import (
