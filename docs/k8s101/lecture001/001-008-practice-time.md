@@ -14,4 +14,13 @@ remove();
 
 # It’s Practice Time
 
+## Lab
+
+* Demo: TBD.
+
+## References and Further Reading
+
+* TBD.
+
+
 [« Kubernetes Architecture](001-007-kubernetes-architecture.md)
