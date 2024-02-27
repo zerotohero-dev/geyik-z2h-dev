@@ -2,7 +2,7 @@
 title: "Geyik Akademi — K8S101: Introduction to Kubernetes — Lecture 001"
 ---
 
-##  Geyik Akademi — K8S101 Introduction to Kubernetes
+##  Geyik Akademi — K8S101: Kubernetes Temelleri
 
 ## Ne Zaman?
 
