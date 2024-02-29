@@ -140,9 +140,14 @@ Daha iyi eğitim platformu yok.
 
 ----
 
-## Yakında Açılacak Dersler
+## Devam Eden Dersler
 
 * **K8S101** — Kubernetes Temelleri
+
+----
+
+## Yakında Açılacak Dersler
+
 * **GOL101** — Go Programlama Diline Giriş
 * **DOC101** — Docker Temelleri
 * **NET101** — Temel Network Bilgisi
