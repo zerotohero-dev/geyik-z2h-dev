@@ -142,7 +142,7 @@ Daha iyi eğitim platformu yok.
 
 ## Devam Eden Dersler
 
-* **K8S101** — Kubernetes Temelleri
+* [**K8S101** — Kubernetes Temelleri](https://vadidekigeyik.com/k8s101/lecture001/000-prerequisites/)
 
 ----
 
