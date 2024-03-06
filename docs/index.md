@@ -156,6 +156,13 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 ## Yayınlar
 
+### 🎙️ Sezon 12
+
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S12E03-Guardians-of-the-Glade-e2g8krr/a-ab0itrm">S12E03: Guardians of the Glade - (40 dakika, 32 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S12E02-The-Veiled-Path-e2g8kmd/a-ab0ite4">
+  S12E02: The Veiled Path - (40 dakika, 12 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S12E01-Dawn-of-the-New-Geyik-e2g8ki1/a-ab0it2h">S12E01: Dawn of the New Geyik - (40 dakika, 33 saniye)</a>
+
 ### 🎙️ Sezon 11
 
 - ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S11E04-Harmonious-Edge-e2fopst/a-aavht92">S11E04: Harmonious Edge - (23 dakika, 1 saniye)</a>
