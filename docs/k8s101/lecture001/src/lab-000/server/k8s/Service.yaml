@@ -6,11 +6,15 @@
 #      `--'.  \             ,
 #          |   `.__________/)
 
-FROM golang:1.22
-
-WORKDIR /app
-COPY main.go .
-
-RUN go build main.go
-
-CMD ["./main"]
+apiVersion: v1
+kind: Service
+metadata:
+  name: server
+spec:
+  selector:
+    app: server
+  ports:
+  - protocol: TCP
+    port: 8080
+    targetPort: 8080
+  type: NodePort

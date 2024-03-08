@@ -9,17 +9,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: client
+  name: server
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: client
+      app: server
   template:
     metadata:
       labels:
-        app: client
+        app: server
     spec:
       containers:
-      - name: client
-        image: localhost:5000/geyik-client:0.5.0
+      - name: server
+        image: localhost:5000/geyik-server:0.5.0
+        ports:
+        - containerPort: 8080

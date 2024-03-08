@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # ( Geyik Academy )
 #   `--(_   _)--'
 #        Y-Y    
@@ -6,11 +8,10 @@
 #      `--'.  \             ,
 #          |   `.__________/)
 
-FROM golang:1.22
-
-WORKDIR /app
-COPY main.go .
-
-RUN go build main.go
-
-CMD ["./main"]
+minikube start
+sleep 5
+minikube addons enable ingress
+sleep 5
+minikube addons enable registry
+sleep 5
+echo "Everything is awesome!"

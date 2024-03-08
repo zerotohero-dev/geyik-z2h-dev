@@ -1,17 +1,17 @@
-# ( Vadideki Geyik )
+# ( Geyik Academy )
 #   `--(_   _)--'
-#        Y-Y
-#       /@@ \   don’t miss the deer,
-#      /     \    go kiss the deer.
+#        Y-Y    
+#       /@@ \  Si audes scire,
+#      /     \    cervam sapientiae insequere.
 #      `--'.  \             ,
 #          |   `.__________/)
 
 FROM golang:1.22
 
 WORKDIR /app
-COPY server.go .
+COPY main.go .
 
-RUN go build -o server
+RUN go build main.go
 
 EXPOSE 8080
-CMD ["./server"]
+CMD ["./main"]]

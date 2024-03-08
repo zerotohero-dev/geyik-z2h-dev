@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # ( Geyik Academy )
 #   `--(_   _)--'
 #        Y-Y    
@@ -6,11 +8,4 @@
 #      `--'.  \             ,
 #          |   `.__________/)
 
-FROM golang:1.22
-
-WORKDIR /app
-COPY main.go .
-
-RUN go build main.go
-
-CMD ["./main"]
+minikube delete

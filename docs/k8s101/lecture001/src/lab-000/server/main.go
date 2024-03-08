@@ -1,9 +1,9 @@
 /*
- *  ( Vadideki Geyik )
+ * ( Geyik Academy )
  *   `--(_   _)--'
- *        Y-Y
- *       /@@ \   don’t miss the deer,
- *      /     \    go kiss the deer.
+ *        Y-Y    
+ *       /@@ \  Si audes scire,
+ *      /     \    cervam sapientiae insequere.
  *      `--'.  \             ,
  *          |   `.__________/)
  */
