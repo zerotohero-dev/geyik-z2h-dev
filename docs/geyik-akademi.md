@@ -140,9 +140,14 @@ Daha iyi eğitim platformu yok.
 
 ----
 
+## Devam Eden Dersler
+
+* [**K8S101** — Kubernetes Temelleri](https://vadidekigeyik.com/k8s101/lecture001/000-prerequisites/)
+
+----
+
 ## Yakında Açılacak Dersler
 
-* **K8S101** — Kubernetes Temelleri
 * **GOL101** — Go Programlama Diline Giriş
 * **DOC101** — Docker Temelleri
 * **NET101** — Temel Network Bilgisi
