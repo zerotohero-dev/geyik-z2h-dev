@@ -138,7 +138,6 @@ Sonraki yayında konuşulabilir şeyler:
 ## Önceki Yayında Yarım Kalanlar
 
 * “Uyku” onemli mi?
-* Paşaport onemli.
 * Jose Capablanca’ya Silikon Vadisi’nde nasil is teklifi nasil gelir? 
   <https://www.chess.com/players/jose-raul-capablanca>
 * Geyik: broadcomda sabah kahvaltisi
@@ -157,14 +156,9 @@ Sonraki yayında konuşulabilir şeyler:
   yaşamıştır, bilmiyorum (ilintili: Cisco, pandemi oncesi bile hibriddi;
   kendini yalniz hissedebiliyordun, ayri bir alisma sureci o)
 * cocuklara programlama ogretilmeli mi? erken degil mi? (Toprak 7 yasinda Mario game maker’da level tasarliyordu mesela; 12 yas icin Big Data, AI/ML kurslari var. Yani cocuklar sanildigi kadar salak degil. Arti yaris ati gibi de yetistirilmiyorlar. Ortalama bir Vadi cocugu hem piyano caliyor, hem olimpik yuzuyor, hem kodunu yaziyor, hem arkadaslarina playdate’e gidiyor falan)
-* Fedakarlik ve cok calismak: “cok calisma”nin tanimi ne?
-* AWS sertifikasi aldim; onemli mi?
 * Kariyerimin basindayim, ne gibi life hack’ler onerirsin ki sukela kariyerim olsun?
-* startup’da calismanin avantaji/dezavantaji
-* kurumsal sirkette calismanin avantaji/dezavantaji
 * Kimya muhendisligi mezunuyum, yazilma basladim; dogru mu yapiyorum? Kendi alanimda calismayinca garip geliyor.
 * AI nereye gidiyor? Mesela 10 kisi calistiran bir sirket, AI geldi diye 8 kisi calistirma yoluna gider mi?
-* “this old man” ve toplumun “sorgulamadan takip” eden suru psikolojisinde olmasinin farkindaligi.
 * "yaptigim ispatlari sinifin onunde duzeltmese; sinif icinde otoritem kalmiyor"
 * advices to your younger self
 * Las vegas: bu kadar ucuz olmamai oteller; daycare parasini kumardna kazanmak
@@ -175,7 +169,6 @@ Sonraki yayında konuşulabilir şeyler:
   * Bir muhendis olarak Bertland Russel’in ogrencisinden felsefe dersi alma manyakligi
 * Don’t outshine your master ve diger kurumsal ortam ipuclari.
 * 12 yasinda oyun yazmaca
-* VSecM uzerinden guc oyunlari
 * Tefeciye ihtiyacim var, nereden bulurum?
 * Open Source yapiyorum; kendi repom var, bol bol hackernews klonu ekliyorum,
   ama hic bir sirketin umrunda degil. Neden?
