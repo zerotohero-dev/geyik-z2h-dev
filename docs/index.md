@@ -7,7 +7,7 @@ title: Ana Geyik 🦌
 >🦌 Hey Dostum, Bir Sonraki Canlı Yayın Ne Zaman? 🦌</h1>
 <p style="background-color: #ffffff; transform: rotate(-4deg); box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.16), 0 8px 8px rgba(0,0,0,0.20);"
 >
-13 Nisan, Cumartesi, sabah 10:00 pasifik saati
+4 Mayıs, Cumartesi, sabah 10:00 pasifik saati
 <!-- Seneye bakarız dostum, seneye bakarız. 🦌 -->
 </p>
 </div>
@@ -155,6 +155,12 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 <div style="clear:both;"></div>
 
 ## Yayınlar
+
+### 🎙️ Sezon 13
+
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S13E03-The-Geyiks-Maelstrom-e2hogj6/a-ab4bc4b"> S13E03: The Geyik's Maelstrom - (40 dakika, 41 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S13E02-Shadows-Cast-by-Giants-e2hoghr/a-ab4bc0j"> S13E02: Shadows Cast by Giants - (40 dakika, 17 saniye)</a>
+- ▶️ <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S13E01-The-Geyiks-Oath-e2hogg1/a-ab4bbrm">S13E01: The Geyik's Oath - (40 dakika, 28 saniye)</a>
 
 ### 🎙️ Sezon 12
 
