@@ -7,7 +7,7 @@ title: Ana Geyik 🦌
 >🦌 Hey Dostum, Bir Sonraki Canlı Yayın Ne Zaman? 🦌</h1>
 <p style="background-color: #ffffff; transform: rotate(-4deg); box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.16), 0 8px 8px rgba(0,0,0,0.20);"
 >
-4 Mayıs, Cumartesi, sabah 10:00 pasifik saati
+1 Haziran, Cumartesi, sabah 10:00 pasifik saati
 <!-- Seneye bakarız dostum, seneye bakarız. 🦌 -->
 </p>
 </div>
