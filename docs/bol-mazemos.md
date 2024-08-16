@@ -135,6 +135,8 @@ width="64px" height="86px" viewBox="0 0 128 172" version="1.1" xmlns="http://www
 
 Sonraki yayında konuşulabilir şeyler:
 
+* Neden hayattayız? Yaşamın bir amacı var mı? Eğer varsa, bu amaç bir şeye inanmak ve ona bağlı kalmak mı? Yalnız hissetmemek için mi yaşıyoruz?
+
 ## Önceki Yayında Yarım Kalanlar
 
 * “Uyku” onemli mi?
