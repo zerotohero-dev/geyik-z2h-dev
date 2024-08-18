@@ -8,17 +8,11 @@
           |   `.__________/)
 ```
 
-## About
+## Archived Repo
 
-The public Website of “Vadideki Geyik” Podcasts — https://vadidekigeyik.com/
+Yeni PR'lar buraya:
 
-## Quickstart
+https://github.com/zerotohero-dev/zerotohero-web/tree/main/content/vadideki-geyik
 
-* Install [`mkdocs`][mkdocs] to your system.
-* Install the [terminal theme][terminal].
-* `mkdocs serve` serves the website for local development.
-* `mkdocs build` will create a production-ready website under the `site` 
-  folder.
 
-[mkdocs]: https://www.mkdocs.org
-[terminal]: https://github.com/ntno/mkdocs-terminal
+
